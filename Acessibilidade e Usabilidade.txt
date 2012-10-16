@@ -1,0 +1,62 @@
+=== Acessibilidade e Usabilidade ===
+
+1 - Apresentação
+
+	Rafael França
+	Estudante de Webdesign
+
+	Carla Guerra
+	Estudante de Webdesign
+
+
+2 - O que é acessibilidade e usabilidade?
+	
+	Acessibilidade - A informação estar disponível a todos. Forma correta de disponibilizar as informações.
+
+	Usabilidade - A informação estar de fácil acesso a todos. Navegação clara.
+
+
+3 - Para quem é a acessibilidade e a usabilidade?
+	
+	Para todos.
+	(Colocar imagens de idosos, crianças, cegos, deficientes em geral)
+
+
+4 - Algumas melhorias em códigos
+
+	- Igms - Alt
+	- Atalhos - JS
+	- Flash (não)
+
+
+5 - Exercício 1
+
+	Site cego
+
+
+6 - Exercício 2
+
+	Formulário - Deficientes motores
+
+
+7 - Alguns programas
+	
+	- Jaws
+	- MAGic
+
+
+8 - Referências
+	
+	- Bengala
+	- eMAG
+
+
+9 - Contato / Conclusão
+
+	Rafael França
+
+	Skype - Rufles_RJ
+	Gmail - rafaelfms
+	Twitter - euconectei
+
+	Carla Guerra

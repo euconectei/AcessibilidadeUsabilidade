@@ -1,0 +1,15 @@
+#leitor {
+	background-color: #000;
+	position: fixed;
+	z-index: 99;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+}
+a:focus { 
+	background-color: #FFF;
+	padding: 5px;
+	position: absolute;
+	z-index: 100;
+}
